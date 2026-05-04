@@ -1,0 +1,1 @@
+This is a journal regarding the solutions of every codeforces problems solved by myself from hard to easy in python3 using PyPy 3.10 (7.3.15, 64Bit )
